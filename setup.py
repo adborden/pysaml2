@@ -40,7 +40,7 @@ install_requires=[
     'httplib2',
     'paste',
     'zope.interface',
-    'repoze.who == 1.0.18'
+    'repoze.who == 2.0'
     ]
 
 # only for Python 2.6
